@@ -20,7 +20,6 @@ This is a simple and efficient file-sharing web application built using **React*
 
 - **Frontend**: React, Vite
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
 
 ## How It Works
 
@@ -64,7 +63,6 @@ Create a `.env` file in the backend directory and configure it as follows:
 ```env
 PORT=5000
 MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
 ```
 
 ## Usage
